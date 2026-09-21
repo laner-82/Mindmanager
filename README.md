@@ -222,4 +222,4 @@ MindManager is available as a full free version with all features and updates in
 Ready to boost your productivity and creativity? [Download MindManager now and start organizing your ideas!](https://www.softyne.com/mindmanager)
 
 ---
-**Last updated:** 2026-09-21 17:34:14 UTC
+**Last updated:** 2026-09-21 21:30:13 UTC
